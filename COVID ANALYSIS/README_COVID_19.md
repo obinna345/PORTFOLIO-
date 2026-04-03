@@ -126,15 +126,6 @@ infection rates, death percentages, and vaccination progress worldwide.
 
 ------------------------------------------------------------------------
 
-## 📈 Future Improvements
 
--   Add visual dashboards
--   Include time-series forecasting
--   Perform deeper regional analysis
--   Integrate more recent datasets
 
-------------------------------------------------------------------------
 
-## 📎 Author
-
-SQL Data Exploration Project
